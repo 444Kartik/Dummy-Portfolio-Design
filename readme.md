@@ -20,7 +20,7 @@ This is a clean and modern portfolio UI designed specifically for showcasing my 
 ## 📸 Preview
 
 ![Preview](/Images/Desktop-Preview.png)
-![Preview](/Images/Mobile-Preview.jpg)
+![Preview](/Images/Mobile_Preview.jpg)
 
 
 ## 🚀 Live Demo
