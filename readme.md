@@ -1,6 +1,6 @@
-# App Developer Portfolio - Kartik
+# Dummy Portfolio Design - Kartik
 
-This is a clean and modern portfolio UI designed specifically for showcasing app development skills. Built using **HTML and CSS only**, this project focuses on simplicity, style, and performance.
+This is a clean and modern portfolio UI designed specifically for showcasing my UI Design skills. Built using **HTML and CSS only**, this project focuses on simplicity, style, and performance.
 
 ## 🔥 Features
 
@@ -26,7 +26,11 @@ This is a clean and modern portfolio UI designed specifically for showcasing app
 ## 🚀 Live Demo
 
 
-
 ---
 
 Feel free to clone, modify, and use it as your own portfolio template.
+
+
+## 📄 Note
+
+The skills and sections displayed in this portfolio are added **only for design and layout purposes** and may not reflect actual experience.
