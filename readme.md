@@ -24,7 +24,7 @@ This is a clean and modern portfolio UI designed specifically for showcasing my 
 
 
 ## 🚀 Live Demo
-
+https://portfolio-design-ui.netlify.app/
 
 ---
 
